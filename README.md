@@ -13,7 +13,7 @@ Why is this important: It provides a promising decrease-and-conquer strategy for
 
 ## Download dataset
 
-# clean-label backdoor attack on CIFAR-10
+### clean-label backdoor attack on CIFAR-10
 
 Use the script `download_clba.sh` in `datasets` folder. 
 
