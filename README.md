@@ -16,7 +16,7 @@ Why is this important: It provides a promising decrease-and-conquer strategy for
 ### clean-label backdoor attack on CIFAR-10
 
 Use the script `download_clba.sh` in `datasets` folder. 
-After downloading the dataset, put it into the folder `<args.data_root_path>/CIFAR10-CLBA`. For example, the `npy` file we use in our experiments is in `<args.data_root_path>/CIFAR10-CLBA/fully_poisoned_training_datasets/inf_16.npy`
+After downloading the dataset, put it into the folder `<args.data_root_path>/CIFAR10-CLBA`. For example, the `npy` file we use in our experiments is `<args.data_root_path>/CIFAR10-CLBA/fully_poisoned_training_datasets/inf_16.npy`
 
 ## Normal training
 
