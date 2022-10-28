@@ -10,6 +10,13 @@ Intuition: Image reconstruction task encourages the stem network to keep suffici
 
 Why is this important: It provides a promising decrease-and-conquer strategy for backdoor defense. Since the stem network is largely uncontaminated, defenders only need to tackle the small backdoored subnetwork, which is easier than sanitizing the entire model as done previously.
 
+
+## Download dataset
+
+# clean-label backdoor attack on CIFAR-10
+
+Use the script `download_clba.sh` in `datasets` folder. 
+
 ## Normal training
 
 Run 
